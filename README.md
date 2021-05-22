@@ -20,3 +20,9 @@ The results we acheived by comparing the libraries:<br />
 
 
 Note: The device used for testing is Quad-core Linux Environment. The performance of the libraries will be depending on the device configuaration.
+
+My Team Members:<br />
+G Shashank,<br />
+Ghattamaneni Srikanth,<br />
+Gopalasetti Sri Harsha,<br />
+R Ganesh
